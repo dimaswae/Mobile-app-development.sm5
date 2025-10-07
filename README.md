@@ -28,4 +28,4 @@ Modul5_HelloToastApp/
 
 ## 📷 Preview
 Contoh hasil akhir (Modul 5 - Hello Toast App):  
-![Preview Hello Toast](Modul5_HelloToastApp/Screenshot_HelloToastApp.png)
+![Preview Hello Toast](Modul5-HelloToastCountApp/Screenshot_HelloToastApp.png)
